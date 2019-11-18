@@ -10,9 +10,15 @@ public class exam {
 
         square testonetwo = new square(5);
 
+        circle onetwothree = new circle(6);
+
         System.out.println(testonetwo.getLenwid());
 
         System.out.println(testest.getWidth());
+
+        System.out.println (onetwothree.getDiameter());
+
+
 
     }
 }
